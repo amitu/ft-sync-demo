@@ -1,0 +1,9 @@
+-- ft-sync:
+mode: local-to-remote
+backend: ftd
+root: docs
+repo: https://github.com/abrarNitk/ft-sync-demo
+collection: amitu/ftsync-demo
+
+-- ignored:
+**/*.py
