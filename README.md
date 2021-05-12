@@ -18,7 +18,6 @@ collection: amitu/ftsync-demo
 **/*.py
 
 ```
-- Set ENV variable FT_AUTH_CODE and FT_HOST
-- Install `fy-sync` 
-- Status Command
-- Sync Command
+- Set ENV variable FT_AUTH_CODE=**** and FT_HOST=https://www.fifthtry.com
+- Status Command `./ft-sync --config=ft-sync.p1 status`
+- Sync Command `./ft-sync --config=ft-sync.p1 sync`
