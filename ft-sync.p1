@@ -3,7 +3,7 @@ mode: local-to-remote
 backend: ftd
 root: docs
 repo: https://github.com/abrarNitk/ft-sync-demo
-collection: amitu/ftsync-demo
+collection: wilderbit/ft-sync-demo
 
 -- ignored:
 **/*.py
