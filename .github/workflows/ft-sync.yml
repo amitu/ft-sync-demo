@@ -12,6 +12,8 @@ jobs:
       FT_AUTH_CODE: ${{ secrets.FT_AUTH_CODE }}
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - name: Running ft-sync status
         run: |
           chmod +x ./.github/ft-sync
