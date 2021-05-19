@@ -1,0 +1,33 @@
+-- h0: ft-sync Demo
+
+
+
+-- h1: GitHub Repository
+
+
+
+-- markdown:
+
+This collection is maintained by git [repo](https://github.com/AbrarNitk/ft-sync-demo).
+
+
+
+-- toc:
+
+- wilderbit/ft-sync-demo/hello-world
+  Hello World
+- wilderbit/ft-sync-demo/hello-world1
+  This is CLI document
+- wilderbit/ft-sync-demo/hello-world2
+  This is new content added
+- wilderbit/ft-sync-demo/hello-world3
+  Awesome document
+
+
+
+
+-- meta:
+git-repo: https://github.com/AbrarNitk/ft-sync-demo
+
+--- reader:
+who: everyone
